@@ -1,0 +1,3 @@
+/home/mihuyka/projects/cpp_coursework/taxi_app/build/CMakeFiles/taxi_app.dir
+/home/mihuyka/projects/cpp_coursework/taxi_app/build/CMakeFiles/edit_cache.dir
+/home/mihuyka/projects/cpp_coursework/taxi_app/build/CMakeFiles/rebuild_cache.dir
